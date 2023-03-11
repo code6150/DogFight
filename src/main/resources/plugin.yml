@@ -1,5 +1,0 @@
-name: DogFight
-version: '${project.version}'
-main: com.dogfight.DogFight
-api-version: 1.16
-commands:
